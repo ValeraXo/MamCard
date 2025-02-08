@@ -1,0 +1,2 @@
+# MamCard
+pyQT (пук)
